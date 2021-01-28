@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/campus"
+        android:title="Campus"></item>
+    <item
+        android:id="@+id/department"
+        android:title="Department"></item>
+    <item
+        android:id="@+id/classroom"
+        android:title="Class rooms"></item>
+    <item
+        android:id="@+id/convention"
+        android:title="CONVENTION CENTER"></item>
+    <item
+        android:id="@+id/bs03"
+        android:title="BS03 HALL"></item>
+    <item
+        android:id="@+id/krishna"
+        android:title="KRISHNA HALL"></item>
+    <item
+        android:id="@+id/it"
+        android:title="IT/MCT DEPARTMENT"
+        app:showAsAction="never"></item>
+    <item
+        android:id="@+id/mech"
+        android:title="MECHANICAL DEPARTMENT"
+        app:showAsAction="never"></item>
+    <item
+        android:id="@+id/ece"
+        android:title="CIVIL DEPARTMENT"
+        app:showAsAction="never"></item>
+    <item
+        android:id="@+id/library"
+        android:title="LIBRARY"
+        app:showAsAction="never"></item>
+    <item
+        android:id="@+id/admin"
+        android:title="ADMIN BLOCK "
+        app:showAsAction="never"></item>
+</menu>
+
